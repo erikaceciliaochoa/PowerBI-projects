@@ -1,7 +1,7 @@
 ## Proyectos de Power BI
 
 - <a href="EA Sports vs Futbol físico.pdf">EA Sports vs Futbol físico</a>
-<img src="EA Sports vs Futbol físico.PNJ" alt="EA Sports vs Futbol físico" width="500" height="600">
+<img src="EA Sports vs Futbol físico.PNG" alt="EA Sports vs Futbol físico" width="500" height="600">
 - <a href="Entrega Final - libreria.pdf">Entrega Final - libreria</a>
   - <a href="Entrega Final - Libreria - Ochoa Erika.pdf">Entrega Final - Libreria - Ochoa Erika</a>
 - <a href="Global Market.pdf">Global Market</a>
