@@ -1,6 +1,7 @@
 ## Proyectos de Power BI
 
 <p align="left">
-  <code><img title="EA Sports vs Futbol físico.pdf" height="25" src="EA Sports vs Futbol físico.pdf"></code>
-  <a href="EA Sports vs Futbol físico.pdf">EA Sports vs Futbol físico.pdf</a>
+  <a href="EA Sports vs Futbol físico.pdf">EA Sports vs Futbol físico</a>
+  <a href="Entrega Final - Libreria - Ochoa Erika.pdf">Entrega Final - Libreria - Ochoa Erika</a>
+  <a href="Entrega Final - libreria.pdf">Entrega Final - libreria</a>
 </p>
