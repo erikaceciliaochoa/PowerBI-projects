@@ -1,7 +1,7 @@
 ## Proyectos de Power BI
 
 <p align="left">
-  <ul>
+  <ul style="line-height:180%">
     <li><a href="EA Sports vs Futbol físico.pdf">EA Sports vs Futbol físico</a></li>
     <li><a href="Entrega Final - libreria.pdf">Entrega Final - libreria</a></li>
       <ul>
