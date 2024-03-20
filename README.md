@@ -1,6 +1,7 @@
 ## Proyectos de Power BI
 
 - <a href="EA Sports vs Futbol físico.pdf">EA Sports vs Futbol físico</a>
+![](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/EA%20Sports%20vs%20Futbol%20f%C3%ADsico.PNG)
 <img src="EA Sports vs Futbol físico.PNG" alt="EA Sports vs Futbol físico" width="700" height="400">
 
 - <a href="Entrega Final - libreria.pdf">Entrega Final - libreria</a>
