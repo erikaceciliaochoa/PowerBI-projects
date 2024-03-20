@@ -1,7 +1,7 @@
 ## Proyectos de Power BI
 
 - <a href="EA Sports vs Futbol físico/EA Sports vs Futbol físico.pdf">EA Sports vs Futbol físico</a>
-![]([https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/EA%20Sports%20vs%20Futbol%20f%C3%ADsico.PNG](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/EA%20Sports%20vs%20Futbol%20f%C3%ADsico/EA%20Sports%20vs%20Futbol%20f%C3%ADsico.PNG?raw=true))
+![]([[https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/EA%20Sports%20vs%20Futbol%20f%C3%ADsico.PNG](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/EA%20Sports%20vs%20Futbol%20f%C3%ADsico/EA%20Sports%20vs%20Futbol%20f%C3%ADsico.PNG?raw=true)](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/EA%20Sports%20vs%20Futbol%20físico/EA%20Sports%20vs%20Futbol%20físico.PNG))
 
 - <a href="Libreria/Entrega Final - libreria.pdf">Entrega Final - libreria</a>
   - <a href="Libreria/Entrega Final - Libreria - Ochoa Erika.pdf">Entrega Final - Libreria - Ochoa Erika</a>
