@@ -5,7 +5,7 @@
 
 - <a href="Libreria/Entrega Final - libreria.pdf">Entrega Final - libreria</a>
   - <a href="Libreria/Entrega Final - Libreria - Ochoa Erika.pdf">Entrega Final - Libreria - Ochoa Erika</a>
-![](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/Entrega%20Final%20-%20libreria.PNG)
+![](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/Libreria/Entrega%20Final%20-%20libreria.PNG)
            
 - <a href="Global Market/Global Market.pdf">Global Market</a>
 ![](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/Global%20Market.PNG)
