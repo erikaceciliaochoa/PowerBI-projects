@@ -2,11 +2,10 @@
 
 - <a href="EA Sports vs Futbol físico.pdf">EA Sports vs Futbol físico</a>
 ![](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/EA%20Sports%20vs%20Futbol%20f%C3%ADsico.PNG)
-<img src="EA Sports vs Futbol físico.PNG" alt="EA Sports vs Futbol físico" width="700" height="400">
 
 - <a href="Entrega Final - libreria.pdf">Entrega Final - libreria</a>
   - <a href="Entrega Final - Libreria - Ochoa Erika.pdf">Entrega Final - Libreria - Ochoa Erika</a>
-<img src="Entrega Final - libreria.PNG" alt="Entrega Final - libreria" width="700" height="400">
+![](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/Entrega%20Final%20-%20libreria.PNG)
            
 - <a href="Global Market.pdf">Global Market</a>
 <img src="Global Market.PNG" alt="Global Market" width="700" height="400">
