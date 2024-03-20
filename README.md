@@ -14,4 +14,4 @@
 ![](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/proyecto-final-tablero-internaciones.PNG)
 
  - <a href="Vacunación CABA contra el COVID-19.pdf">Vacunación CABA contra el COVID-19</a>
- <img src="Vacunación CABA contra el COVID-19.PNG" alt="Vacunación CABA contra el COVID-19" width="700" height="400">
+![](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/Vacunaci%C3%B3n%20CABA%20contra%20el%20COVID-19.PNG)
