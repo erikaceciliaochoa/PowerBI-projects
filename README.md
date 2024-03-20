@@ -11,7 +11,7 @@
 ![](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/Global%20Market.PNG)
 
 - <a href="proyecto-final-tablero-internaciones.pdf">Proyecto final-Tablero internaciones</a>
-<img src="proyecto-final-tablero-internaciones.PNG" alt="Proyecto final-Tablero internaciones" width="700" height="400">
+![](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/proyecto-final-tablero-internaciones.PNG)
 
  - <a href="Vacunación CABA contra el COVID-19.pdf">Vacunación CABA contra el COVID-19</a>
  <img src="Vacunación CABA contra el COVID-19.PNG" alt="Vacunación CABA contra el COVID-19" width="700" height="400">
