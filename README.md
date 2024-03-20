@@ -4,9 +4,9 @@
 <img src="EA Sports vs Futbol físico.PNG" alt="EA Sports vs Futbol físico" width="700" height="400">
 
 - <a href="Entrega Final - libreria.pdf">Entrega Final - libreria</a>
-<img src="Entrega Final - libreria.PNG" alt="Entrega Final - libreria" width="700" height="400">
   - <a href="Entrega Final - Libreria - Ochoa Erika.pdf">Entrega Final - Libreria - Ochoa Erika</a>
-          
+<img src="Entrega Final - libreria.PNG" alt="Entrega Final - libreria" width="700" height="400">
+           
 - <a href="Global Market.pdf">Global Market</a>
 <img src="Global Market.PNG" alt="Global Market" width="700" height="400">
 
