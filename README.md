@@ -8,7 +8,7 @@
 ![](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/Entrega%20Final%20-%20libreria.PNG)
            
 - <a href="Global Market.pdf">Global Market</a>
-<img src="Global Market.PNG" alt="Global Market" width="700" height="400">
+![](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/Global%20Market.PNG)
 
 - <a href="proyecto-final-tablero-internaciones.pdf">Proyecto final-Tablero internaciones</a>
 <img src="proyecto-final-tablero-internaciones.PNG" alt="Proyecto final-Tablero internaciones" width="700" height="400">
