@@ -1,8 +1,5 @@
 ## Proyectos de Power BI
 
-- <a href="EA Sports vs Futbol físico/EA Sports vs Futbol físico.pdf">EA Sports vs Futbol físico</a>
-![EA Sports vs Futbol físico](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/EA%20Sports%20vs%20Futbol%20físico/EA%20Sports%20vs%20Futbol%20físico.PNG)
-
 - <a href="Global Market/Global Market.pdf">Global Market</a>
 ![Global Market](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/Global%20Market/Global%20Market.PNG)
 
