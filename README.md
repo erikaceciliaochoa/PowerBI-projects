@@ -1,5 +1,8 @@
 ## Proyectos de Power BI
 
+- <a href="Global Market/DASHBOARD RRHH.pdf">DASHBOARD RRHH</a>
+![DASHBOARD RRHH](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/DASHBOARD%20RRHH/DASHBOARD%20RRHH.PNG)
+
 - <a href="Global Market/Global Market.pdf">Global Market</a>
 ![Global Market](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/Global%20Market/Global%20Market.PNG)
 
