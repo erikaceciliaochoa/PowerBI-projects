@@ -14,7 +14,7 @@
 ![Libreria](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/Librería/Librería.PNG)
            
  - <a href="Vacunación CABA contra el COVID-19/Vacunación CABA contra el COVID-19.pdf">Vacunación CABA contra el COVID-19</a>
-![Vacunación CABA contra el COVID-19](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/Vacunación%20CABA%20contra%20el%20COVID-19/Vacunación%20CABA%20contra%20el%20COVID-19.PN)
+![Vacunación CABA contra el COVID-19](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/Vacunaci%C3%B3n%20CABA%20contra%20el%20COVID-19/Vacunaci%C3%B3n%20CABA%20contra%20el%20COVID-19.PNG)
 
 - <a href="Workshop Gym/Workshop Gym.pdf">Workshop Gym</a>
 ![Workshop Gym](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/Workshop%20Gym/Workshop%20Gym.PNG)
