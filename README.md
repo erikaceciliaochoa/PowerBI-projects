@@ -1,5 +1,8 @@
 ## Proyectos de Power BI
 
+- <a href="Base EERR Resuelto/Base EERR Resuelto.pdf">Estado de Resultados</a>
+![Estado de Resultados](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/Base%20EERR%20Resuelto/Base%20EERR%20Resuelto.PNG)
+
 - <a href="DASHBOARD RRHH/DASHBOARD RRHH.pdf">DASHBOARD RRHH</a>
 ![DASHBOARD RRHH](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/DASHBOARD%20RRHH/DASHBOARD%20RRHH.PNG)
 
