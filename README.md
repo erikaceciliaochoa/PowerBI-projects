@@ -14,7 +14,10 @@
 ![Libreria](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/Librería/Librería.PNG)
            
  - <a href="Vacunación CABA contra el COVID-19/Vacunación CABA contra el COVID-19.pdf">Vacunación CABA contra el COVID-19</a>
-![Vacunación CABA contra el COVID-19](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/Vacunación%20CABA%20contra%20el%20COVID-19/Vacunación%20CABA%20contra%20el%20COVID-19.PNG)
+![Vacunación CABA contra el COVID-19](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/Vacunación%20CABA%20contra%20el%20COVID-19/Vacunación%20CABA%20contra%20el%20COVID-19.PN)
+
+- <a href="Workshop Gym/Workshop Gym.pdf">Workshop Gym</a>
+![Workshop Gym](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/Workshop%20Gym/Workshop%20Gym.PNG)
 
 - <a href="Workshop Power BI Métricas/Workshop Power BI Métricas.pdf">Workshop Power BI Métricas</a>
 ![Workshop Power BI Métricas](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/Workshop%20Power%20BI%20M%C3%A9tricas/Workshop%20Power%20BI%20M%C3%A9tricas.PNG)
