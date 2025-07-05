@@ -7,7 +7,7 @@
 ![DASHBOARD RRHH](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/DASHBOARD%20RRHH/DASHBOARD%20RRHH.PNG)
 
 - <a href="Dashboard Ventas/Dashboard Ventas.pdf">DASHBOARD RRHH</a>
-![DASHBOARD RRHH](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/Dashboard%20Ventas/Dashboard%20Ventas.PNG)
+![Dashboard Ventas](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/Dashboard%20Ventas/Dashboard%20Ventas.PNG)
 
 - <a href="Global Market/Global Market.pdf">Global Market</a>
 ![Global Market](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/Global%20Market/Global%20Market.PNG)
