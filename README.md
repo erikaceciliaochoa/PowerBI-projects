@@ -28,5 +28,3 @@
 - <a href="dashboard_nova/dashboard_nova.pdf">dashboard nova</a>
 ![dashboard_nova](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/dashboard_nova/dashboard_nova.PNG)
 
-- <a href="proyecto-final-tablero-internaciones/proyecto-final-tablero-internaciones.pdf">Proyecto final-Tablero internaciones</a>
-![Proyecto final-Tablero internaciones](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/proyecto-final-tablero-internaciones/proyecto-final-tablero-internaciones.PNG)
