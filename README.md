@@ -25,6 +25,4 @@
 - <a href="Workshop Power BI Métricas/Workshop Power BI Métricas.pdf">Workshop Power BI Métricas</a>
 ![Workshop Power BI Métricas](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/Workshop%20Power%20BI%20M%C3%A9tricas/Workshop%20Power%20BI%20M%C3%A9tricas.PNG)
 
-- <a href="dashboard_nova/dashboard_nova.pdf">dashboard nova</a>
-![dashboard_nova](https://github.com/erikaceciliaochoa/PowerBI-projects/blob/main/dashboard_nova/dashboard_nova.PNG)
 
